@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mason Dunsmuir!<br/>
 Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 
-<h2>🚀 Aerospace Engineering Projects:</h2>
+<h2>(WIP)🚀 Aerospace Engineering Projects:</h2>
 
 - <b>WARDEN – Mars Mission (RCS Lead)</b><br/>
   Led Reaction Control System (RCS) thruster configuration for a multi-stage Mars-bound spacecraft. Conducted GNC simulations and optimized orientation for maneuvering and docking.
