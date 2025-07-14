@@ -8,7 +8,7 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 
 - <b>Shock Tube Design & Testing</b><br/>
   Developed modular test section and transparent window for high-speed visualization. Integrated pressure transducers and DAQ systems. <br/>
-  [Shock Tube PDF](ShockTube_Portfolio.pdf) | [Watch Demo](https://your-youtube-link.com)
+  [Shock Tube PDF](Shock_Tube_Final_Report.pdf) | [Watch Demo](https://your-youtube-link.com)
 
 - <b>CATIA Projects & Certifications</b><br/>
   Completed surface and solid modeling in CATIA V5. Earned 5 Dassault Systèmes certifications. <br/>
