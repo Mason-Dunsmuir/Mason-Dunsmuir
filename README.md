@@ -7,24 +7,23 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 Led the full Reaction Control System (RCS) design for a Mars-bound, multi-stage spacecraft. Personally responsible for thruster pack configuration, torque balancing, and validation through GNC simulations. Optimized thruster orientation to support orbital maneuvering, docking, and contingency control. Contributed to subsystem integration, line routing, and design documentation as part of the Chemical Propulsion and Dynamics team.<br/>
 
 <b>Project Files:</b><br/>
-- [RCS Thruster Configuration & GNC Simulation Package (My Work)](RCS Thruster Configuration & GNC Simulation Package.pdf)<br/>
-- [Final Certification](Final Certification.pdf)<br/>
-- [Final Assembly Report](Final Assembly Report.pdf)<br/>
-- [Tank and Cryocooler System Report](Tank and Cryocooler System Report.pdf)<br/>
-- [Chemical Team Testing Procedures Documentation](Chemical Team Testing Procedures Documentation.pdf)<br/>
-- [Chemical Engine System Report](Chemical Engine System Report.pdf)<br/>
-- [High-Level Mission Report](High-Level Mission Report.pdf)<br/>
-- [ChemicalFMEA](ChemicalFMEA.pdf)<br/><br/>
+- <a href="WARDEN_RCS_System_Report.pdf">WARDEN_RCS_System_Report.pdf (My Work)</a><br/>
+- <a href="Final_Certification.pdf">Final_Certification.pdf</a><br/>
+- <a href="Final_Assembly_Report.pdf">Final_Assembly_Report.pdf</a><br/>
+- <a href="Tank_and_Cryocooler_System_Report.pdf">Tank_and_Cryocooler_System_Report.pdf</a><br/>
+- <a href="Chemical_Team_Testing_Procedures_Documentation.pdf">Chemical_Team_Testing_Procedures_Documentation.pdf</a><br/>
+- <a href="Chemical_Engine_System_Report.pdf">Chemical_Engine_System_Report.pdf</a><br/>
+- <a href="High-Level_Mission_Report.pdf">High-Level_Mission_Report.pdf</a><br/>
+- <a href="ChemicalFMEA.pdf">ChemicalFMEA.pdf</a><br/><br/>
 
 <b>Shock Tube Design & Testing</b><br/>
 Developed modular test section and transparent window for high-speed Schlieren visualization. Integrated pressure transducers and DAQ systems.<br/>
-- [Shock Tube Final Report](Shock_Tube_Final_Report.pdf)  
-- [Watch Demo](https://youtu.be/UaHGwScwaRw)<br/><br/>
+- <a href="ShockTubeFinalPresentation.pptx">ShockTubeFinalPresentation.pptx</a><br/><br/>
 
 <b>CATIA Projects & Certifications</b><br/>
 Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes certifications in part design, assembly, drafting, and surfacing.<br/>
-- [View Certifications](Catia.Certs.2025.pdf)  
-- [See Projects](#)<br/><br/>
+- <a href="Catia.Certs.2025.pdf">Catia.Certs.2025.pdf</a><br/>
+- <a href="#">See Projects</a><br/><br/>
 
 <b>MATLAB/Simulink – 6DOF Trajectory Simulation</b><br/>
 Built orbital simulation with ODE45 integrator. Modeled spacecraft maneuvering and GNC response. Developed visualization tools and Simulink block diagrams.<br/><br/>
