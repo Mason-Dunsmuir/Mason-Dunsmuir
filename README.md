@@ -1,4 +1,4 @@
-# Hi, I'm Mason Dunsmuir (Portfolio is WIP)
+# Hi, I'm Mason Dunsmuir
 ##  Aerospace Engineer | Propulsion Specialist | CAD Modeler
 
 <table>
