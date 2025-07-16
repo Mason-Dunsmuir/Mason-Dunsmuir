@@ -12,7 +12,7 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 
 - <b>CATIA Projects & Certifications</b><br/>
   Completed surface and solid modeling in CATIA V5. Earned 5 Dassault Systèmes certifications. <br/>
-  [View Certifications](Catia.certs.2025.pdf)
+  [View Certifications](Catia.Certs.2025.pdf)
 
 - <b>MATLAB/Simulink – 6DOF Trajectory Simulation</b><br/>
   Built orbital simulation with ODE45 integrator. Modeled spacecraft maneuvering and GNC response. Developed visualization tools and Simulink block diagrams.
