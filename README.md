@@ -4,7 +4,7 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 <h2>(WIP)🚀 Aerospace Engineering Projects:</h2>
 
 - <b>WARDEN – Mars Mission (RCS Lead)</b><br/>
-  Led Reaction Control System (RCS) thruster configuration for a multi-stage Mars-bound spacecraft. Conducted GNC simulations and optimized orientation for maneuvering and docking.<br/>  [View Mission](Catia.Certs.2025.pdf) | [My Contributions]()
+  Led Reaction Control System (RCS) thruster configuration for a multi-stage Mars-bound spacecraft. Conducted GNC simulations and optimized orientation for maneuvering and docking.<br/>  [View Mission]() | [My Contributions]()
 
 - <b>Shock Tube Design & Testing</b><br/>
   Developed modular test section and transparent window for high-speed visualization. Integrated pressure transducers and DAQ systems. <br/>
