@@ -37,6 +37,7 @@ As the lead for the Reaction Control System (RCS), I was responsible for designi
 - [Team Testing Procedures](Chemical_Team_Testing_Procedures_Documentation.pdf)
 - [Chemical Engine Design Report](Chemical_Engine_System_Report.pdf)
 - [FMEA – Chemical Subsystems](ChemicalFMEA.pdf)
+---
 ### Shock Tube Design & Testing
 
 Developed modular test section and transparent window for high-speed Schlieren visualization. Integrated pressure transducers and DAQ systems.
