@@ -5,6 +5,7 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 
 - <b>WARDEN – Mars Mission (RCS Lead)</b><br/>
   Led Reaction Control System (RCS) thruster configuration for a multi-stage Mars-bound spacecraft. Conducted GNC simulations and optimized orientation for maneuvering and docking.
+ [View Mission](Catia.Certs.2025.pdf) | [My Contributions]()
 
 - <b>Shock Tube Design & Testing</b><br/>
   Developed modular test section and transparent window for high-speed visualization. Integrated pressure transducers and DAQ systems. <br/>
@@ -12,7 +13,7 @@ Aerospace Engineer, Propulsion Specialist, CAD Modeler</h1>
 
 - <b>CATIA Projects & Certifications</b><br/>
   Completed surface and solid modeling in CATIA V5. Earned 5 Dassault Systèmes certifications. <br/>
-  [View Certifications](Catia.Certs.2025.pdf) [View Sample Work]()
+  [View Certifications](Catia.Certs.2025.pdf) | [See Projects]()
 
 - <b>MATLAB/Simulink – 6DOF Trajectory Simulation</b><br/>
   Built orbital simulation with ODE45 integrator. Modeled spacecraft maneuvering and GNC response. Developed visualization tools and Simulink block diagrams.
