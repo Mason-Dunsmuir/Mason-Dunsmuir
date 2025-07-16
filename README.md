@@ -1,5 +1,14 @@
-# Hi, I'm Mason Dunsmuir  
-Aerospace Engineer | Propulsion Specialist | CAD Modeler
+# Hi, I'm Mason Dunsmuir (Portfolio is WIP)
+##  Aerospace Engineer | Propulsion Specialist | CAD Modeler
+
+**Embry-Riddle Aeronautical University**  <img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/7b6afc2c-7632-4c62-9a18-baa296b20808" />
+
+*Daytona Beach, FL*  
+**Bachelor of Science, Aerospace Engineering**  
+**2020 – 2025**  
+- **Area of Concentration:** Rocket Propulsion  
+- **Area of Interest:** System Integration  
+- **GPA:** 3.21 / 4.00
 
 ## Aerospace Engineering Projects
 
@@ -31,8 +40,8 @@ Developed modular test section and transparent window for high-speed Schlieren v
 
 Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes certifications in part design, assembly, drafting, and surfacing.
 
-- [CATIA Certifications – Dassault Systèmes](Catia.Certs.2025.pdf)
-- [CATIA Project Gallery](EngineAssembly.pdf)
+- [CATIA Certifications – Dassault Systèmes (PDF)](Catia.Certs.2025.pdf)
+- [CATIA Project Gallery (WIP)](EngineAssembly.pdf)
 
 ---
 
