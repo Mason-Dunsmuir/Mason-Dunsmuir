@@ -1,14 +1,24 @@
 # Hi, I'm Mason Dunsmuir (Portfolio is WIP)
 ##  Aerospace Engineer | Propulsion Specialist | CAD Modeler
 
-**Embry-Riddle Aeronautical University**  <img width="106" height="106" alt="image" src="https://github.com/user-attachments/assets/7b6afc2c-7632-4c62-9a18-baa296b20808" />
-
-*Daytona Beach, FL*  
-**Bachelor of Science, Aerospace Engineering**  
-**2020 – 2025**  
-- **Area of Concentration:** Rocket Propulsion  
-- **Area of Interest:** System Integration  
-- **GPA:** 3.21 / 4.00
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <strong>Embry-Riddle Aeronautical University</strong><br/>
+      <em>Daytona Beach, FL</em><br/><br/>
+      <strong>Bachelor of Science, Aerospace Engineering</strong><br/>
+      <strong>2020 – 2025</strong><br/>
+      <ul>
+        <li><strong>Area of Concentration:</strong> Rocket Propulsion</li>
+        <li><strong>Area of Interest:</strong> System Integration</li>
+        <li><strong>GPA:</strong> 3.21 / 4.00</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <img src="erauLOGO.png" alt="Embry-Riddle Logo" width="120"/>
+    </td>
+  </tr>
+</table>
 
 ## Aerospace Engineering Projects
 
