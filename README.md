@@ -22,9 +22,17 @@
 
 ## Aerospace Engineering Projects
 
-### WARDEN – Mars Mission (RCS System Lead)
-<img src="wardenimg.png" alt="warden_logo" width="120"/>
+<h3>WARDEN – Mars Mission (RCS System Lead)</h3>
+
+<p>
+  <img src="wardenimg.png" alt="WARDEN Logo" height="200" style="margin-right: 10px;">
+  <img src="rcs_nozzle.png" alt="RCS Nozzle" height="200" style="margin-right: 10px;">
+  <img src="rcs_assembly.png" alt="RCS Assembly" height="200">
+</p>
+
+<p>
 As the lead for the Reaction Control System (RCS), I was responsible for designing and validating thruster configurations for a multi-stage spacecraft targeting a Mars transit mission. My work involved calculating torque balances, optimizing thruster orientation, and performing GNC simulations to support precision maneuvering, docking, and abort scenarios. I also contributed to subsystem integration, line routing, and propulsion documentation as part of the Chemical Propulsion and Dynamics team.
+</p>
 
 **Mission Overview:**
 - [High-Level Mission Report](High-Level_Mission_Report.pdf)
