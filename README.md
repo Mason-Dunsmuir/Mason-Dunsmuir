@@ -32,7 +32,7 @@ Developed modular test section and transparent window for high-speed Schlieren v
 Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes certifications in part design, assembly, drafting, and surfacing.
 
 - [CATIA Certifications – Dassault Systèmes](Catia.Certs.2025.pdf)
-- [CATIA Project Gallery]()
+- [CATIA Project Gallery](EngineAssembly.pdf)
 
 ---
 
