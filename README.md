@@ -1,5 +1,5 @@
 # Hi, I'm Mason Dunsmuir
-##  Aerospace Engineer | Propulsion Specialist | CAD Modeler
+##  Aerospace Engineer | Propulsion Specialist | Mechanical Designer
 
 <table>
   <tr>
