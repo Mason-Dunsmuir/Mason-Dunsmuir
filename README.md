@@ -1,24 +1,23 @@
-# Hi, I'm Mason Dunsmuir!  
-Aerospace Engineer, Propulsion Specialist, CAD Modeler
+# Hi, I'm Mason Dunsmuir  
+Aerospace Engineer | Propulsion Specialist | CAD Modeler
 
-## Aerospace Engineering Projects (WIP)
+## Aerospace Engineering Projects
 
 ### WARDEN – Mars Mission (RCS System Lead)
 
-Led the full Reaction Control System (RCS) design for a Mars-bound, multi-stage spacecraft. Personally responsible for thruster pack configuration, torque balancing, and validation through GNC simulations. Optimized thruster orientation to support orbital maneuvering, docking, and contingency control. Contributed to subsystem integration, line routing, and design documentation as part of the Chemical Propulsion and Dynamics team.
+As the lead for the Reaction Control System (RCS), I was responsible for designing and validating thruster configurations for a multi-stage spacecraft targeting a Mars transit mission. My work involved calculating torque balances, optimizing thruster orientation, and performing GNC simulations to support precision maneuvering, docking, and abort scenarios. I also contributed to subsystem integration, line routing, and propulsion documentation as part of the Chemical Propulsion and Dynamics team.
 
-**Project Files:**
-- [RCS Thruster Configuration & GNC Simulation Report](WARDEN_RCS_System_Report.pdf)
+**Mission Overview:**
+- [High-Level Mission Report](High-Level_Mission_Report.pdf)
+
+**Engineering Deliverables:**
+- [RCS Thruster Configuration & GNC Simulation Report](WARDEN_RCS_System_Report.pdf) — *My primary contribution*
 - [Final Certification](Final_Certification.pdf)
 - [Final Assembly Documentation](Final_Assembly_Report.pdf)
 - [Tank and Cryocooler System Report](Tank_and_Cryocooler_System_Report.pdf)
 - [Team Testing Procedures](Chemical_Team_Testing_Procedures_Documentation.pdf)
 - [Chemical Engine Design Report](Chemical_Engine_System_Report.pdf)
-- [High-Level Mission Overview](High-Level_Mission_Report.pdf)
-- [FMEA Analysis – Chemical Subsystems](ChemicalFMEA.pdf)
-
----
-
+- [FMEA – Chemical Subsystems](ChemicalFMEA.pdf)
 ### Shock Tube Design & Testing
 
 Developed modular test section and transparent window for high-speed Schlieren visualization. Integrated pressure transducers and DAQ systems.
