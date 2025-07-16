@@ -21,7 +21,7 @@
 </table>
 
 ## Aerospace Engineering Projects
-
+---
 <h3>WARDEN – Mars Mission (RCS System Lead)</h3>
 
 <p>
