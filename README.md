@@ -7,7 +7,7 @@
       <strong>Embry-Riddle Aeronautical University</strong><br/>
       <em>Daytona Beach, FL</em><br/><br/>
       <strong>Bachelor of Science, Aerospace Engineering</strong><br/>
-      <strong>2020 – 2025</strong><br/>
+      <strong>2021 – 2025</strong><br/>
       <ul>
         <li><strong>Area of Concentration:</strong> Rocket Propulsion</li>
         <li><strong>Area of Interest:</strong> System Integration</li>
