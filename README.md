@@ -1,5 +1,6 @@
 # Hi, I'm Mason Dunsmuir
 ##  Aerospace Engineer | Propulsion Specialist | Mechanical Designer
+
 <table>
   <tr>
     <td valign="top" width="70%">
@@ -29,9 +30,9 @@
   <img src="wardenimg.png" alt="WARDEN Logo" height="100" style="margin-right: 10px;">
   <img src="rcs_nozzle.png" alt="RCS Nozzle" height="100" style="margin-right: 10px;">
   <img src="rcs_assembly.png" alt="RCS Assembly" height="100">
-<p>
-As the lead for the Reaction Control System (RCS), I was responsible for designing and validating thruster configurations for a multi-stage spacecraft targeting a Mars transit mission. My work involved calculating torque balances, optimizing thruster orientation, and performing GNC simulations to support precision maneuvering, docking, and abort scenarios. I also contributed to subsystem integration, line routing, and propulsion documentation as part of the Chemical Propulsion and Dynamics team.
 </p>
+
+As the lead for the Reaction Control System (RCS), I was responsible for designing and validating thruster configurations for a multi-stage spacecraft targeting a Mars transit mission. My work involved calculating torque balances, optimizing thruster orientation, and performing GNC simulations to support precision maneuvering, docking, and abort scenarios. I also contributed to subsystem integration, line routing, and propulsion documentation as part of the Chemical Propulsion and Dynamics team.
 
 **Mission Overview:**
 - [High-Level Mission Report](High-Level_Mission_Report.pdf)
@@ -44,7 +45,9 @@ As the lead for the Reaction Control System (RCS), I was responsible for designi
 - [Team Testing Procedures](Chemical_Team_Testing_Procedures_Documentation.pdf)
 - [Chemical Engine Design Report](Chemical_Engine_System_Report.pdf)
 - [FMEA – Chemical Subsystems](ChemicalFMEA.pdf)
+
 ---
+
 ### Shock Tube Design & Testing
 
 Developed modular test section and transparent window for high-speed Schlieren visualization. Integrated pressure transducers and DAQ systems.
@@ -67,9 +70,51 @@ Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes
 ## About Me
 
 I’m a senior at Embry-Riddle Aeronautical University majoring in Aerospace Engineering with a focus in rocket propulsion and a minor in computational mathematics. I combine hands-on prototyping with system-level simulation. My work spans high-speed testing, spacecraft dynamics, and CAD-to-manufacturing integration.
+
 ### View My General Resume HERE
 - [General Resume (JULY 2025)](Dunsmuir.ResumeJuly.pdf)  
 
+---
+
+## 🧪 Specialty Lab Experience
+
+Hands-on lab work at Embry-Riddle involving aerodynamic testing, pressure mapping, and supersonic flow characterization. These setups reflect direct application of instrumentation, flow visualization, and model-based data acquisition.
+
+---
+
+### Supersonic Wind Tunnel (SST)
+
+High-speed testing lab used for flow diagnostics and component behavior in supersonic regimes. Includes test section with instrumentation and control interface for Mach-based experiments.
+
+<p align="left">
+  <img src="SSTunnel.jpeg" alt="Supersonic Wind Tunnel Overview" height="160"/>
+  <img src="SSTestSection.jpeg" alt="SST Test Section" height="160"/>
+  <img src="SSCompTunnel.jpeg" alt="SST Control Station" height="160"/>
+</p>
+
+---
+
+### Subsonic Wind Tunnel – Airfoil Pressure Mapping
+
+This test used a multi-port airfoil model with surface pressure taps routed through flexible tubing to collect pressure readings. Data enabled the generation of Cp vs. x/c plots and boundary layer visualization.
+
+<p align="left">
+  <img src="AirfoilTunnel.jpeg" alt="Subsonic Tunnel with Airfoil" height="160"/>
+  <img src="AirfoilPressures.jpeg" alt="Airfoil with Pressure Tubes" height="160"/>
+</p>
+
+---
+
+## Falcon Launches from Daytona Beach
+
+Witnessing launches from Daytona Beach is inspiring to say the least. Watching the thunderbirds soar overhead during the day and the rockets crawl through the clouds with little to no warning instills me with a burning passion. These photos were taken on/near my campus, capturing Falcon 9 rockets piercing the sky.
+<p align="left">
+  <img src="falcon9.jpeg" alt="Falcon 9 Night Launch" height="160"/>
+  <img src="FalconSunrise.jpeg" alt="Falcon Launch at Sunrise" height="160"/>
+  <img src="FalconERAU.jpeg" alt="Falcon Launch over ERAU" height="160"/>
+</p>
+
+---
 
 ## Connect with Me
 
