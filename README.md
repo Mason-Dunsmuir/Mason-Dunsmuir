@@ -20,16 +20,14 @@
   </tr>
 </table>
 
-## Aerospace Engineering Projects
+## Aerospace Engineering Projects (the super cool ones)
 ---
 <h3>WARDEN – Mars Mission (RCS System Lead)</h3>
 
 <p>
-  <img src="wardenimg.png" alt="WARDEN Logo" height="200" style="margin-right: 10px;">
-  <img src="rcs_nozzle.png" alt="RCS Nozzle" height="200" style="margin-right: 10px;">
-  <img src="rcs_assembly.png" alt="RCS Assembly" height="200">
-</p>
-
+  <img src="wardenimg.png" alt="WARDEN Logo" height="100" style="margin-right: 10px;">
+  <img src="rcs_nozzle.png" alt="RCS Nozzle" height="100" style="margin-right: 10px;">
+  <img src="rcs_assembly.png" alt="RCS Assembly" height="100">
 <p>
 As the lead for the Reaction Control System (RCS), I was responsible for designing and validating thruster configurations for a multi-stage spacecraft targeting a Mars transit mission. My work involved calculating torque balances, optimizing thruster orientation, and performing GNC simulations to support precision maneuvering, docking, and abort scenarios. I also contributed to subsystem integration, line routing, and propulsion documentation as part of the Chemical Propulsion and Dynamics team.
 </p>
@@ -64,15 +62,12 @@ Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes
 
 ---
 
-### MATLAB/Simulink – 6DOF Trajectory Simulation
-
-Built orbital simulation with ODE45 integrator. Modeled spacecraft maneuvering and GNC response. Developed visualization tools and Simulink block diagrams.
-
----
-
 ## About Me
 
 I’m a senior at Embry-Riddle Aeronautical University majoring in Aerospace Engineering with a focus in rocket propulsion and a minor in computational mathematics. I combine hands-on prototyping with system-level simulation. My work spans high-speed testing, spacecraft dynamics, and CAD-to-manufacturing integration.
+### View My Unabbreviated Resume HERE
+- [General Resume (JULY 2025)]()  
+
 
 ## Connect with Me
 
