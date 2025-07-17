@@ -1,6 +1,5 @@
 # Hi, I'm Mason Dunsmuir
 ##  Aerospace Engineer | Propulsion Specialist | Mechanical Designer
-
 <table>
   <tr>
     <td valign="top" width="70%">
@@ -19,6 +18,8 @@
     </td>
   </tr>
 </table>
+
+[See My Resume](Dunsmuir.ResumeJuly.pdf)  
 
 ## Aerospace Engineering Projects (the super cool ones)
 ---
