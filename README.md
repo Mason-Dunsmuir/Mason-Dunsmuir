@@ -49,8 +49,9 @@ As the lead for the Reaction Control System (RCS), I was responsible for designi
 
 Developed modular test section and transparent window for high-speed Schlieren visualization. Integrated pressure transducers and DAQ systems.
 
-- [Shock Tube Final Report (PDF)](Shock_Tube_Final_Report.pdf)  
-- [Watch Schlieren Demo (YouTube)](https://youtu.be/UaHGwScwaRw)
+- [Shock Tube Final Report (PDF)](Shock_Tube_Final_Report.pdf)
+- See The Demo!  
+[![Watch Schlieren Demo](https://img.youtube.com/vi/UaHGwScwaRw/0.jpg)](https://www.youtube.com/watch?v=UaHGwScwaRw)
 
 ---
 
