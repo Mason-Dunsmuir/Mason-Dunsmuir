@@ -104,8 +104,6 @@ This test used a multi-port airfoil model with surface pressure taps routed thro
   <img src="AirfoilPressures.jpeg" alt="Airfoil with Pressure Tubes" height="160"/>
 </p>
 
----
-
 ## Falcon Launches from Daytona Beach
 
 Witnessing launches from Daytona Beach is inspiring to say the least. Watching the thunderbirds soar overhead during the day and the rockets crawl through the clouds with little to no warning instills me with a burning passion. These photos were taken on/near my campus, capturing Falcon 9 rockets piercing the sky.
