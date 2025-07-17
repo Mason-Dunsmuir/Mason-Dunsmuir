@@ -72,8 +72,9 @@ Completed surface and solid modeling in CATIA V5. Earned five Dassault Systèmes
 I’m a senior at Embry-Riddle Aeronautical University majoring in Aerospace Engineering with a focus in rocket propulsion and a minor in computational mathematics. I combine hands-on prototyping with system-level simulation. My work spans high-speed testing, spacecraft dynamics, and CAD-to-manufacturing integration.
 
 ### View My General Resume HERE
-[![Resume Preview](ResumeThumbnail.png)](Dunsmuir.ResumeJuly.pdf)
-
+<a href="Dunsmuir.ResumeJuly.pdf">
+  <img src="ResumeThumbnail.png" alt="Resume Preview" width="300"/>
+</a>
 ---
 
 ## 🧪 Specialty Lab Experience
