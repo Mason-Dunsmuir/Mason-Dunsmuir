@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-[See My Resume](Dunsmuir.ResumeJuly.pdf)  
+[See My Resume](Dunsmuir.EGRResume.pdf)  
 
 ## Aerospace Engineering Projects (the super cool ones)
 ---
