@@ -77,7 +77,7 @@ I’m a senior at Embry-Riddle Aeronautical University majoring in Aerospace Eng
 </a>
 ---
 
-## 🧪 Specialty Lab Experience
+## Specialty Lab Experience
 
 Hands-on lab work at Embry-Riddle involving aerodynamic testing, pressure mapping, and supersonic flow characterization. These setups reflect direct application of instrumentation, flow visualization, and model-based data acquisition.
 
