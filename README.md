@@ -11,7 +11,7 @@
       <ul>
         <li><strong>Area of Concentration:</strong> Rocket Propulsion</li>
         <li><strong>Area of Interest:</strong> System Integration</li>
-        <li><strong>GPA:</strong> 3.21 / 4.00</li>
+        <li><strong>GPA:</strong> 3.23 / 4.00</li>
       </ul>
     </td>
     <td width="30%">
